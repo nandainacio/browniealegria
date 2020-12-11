@@ -1,0 +1,37 @@
+body {
+  background: #432a19;
+}
+
+header {
+  text-align: center;
+  margin-top: 40px;
+}
+
+ul#menu {
+  list-style: none;
+  font-family: "Lato", sans-serif;
+  letter-spacing: 1.5px;
+  font-size: 20px;
+  font-weight: bold;
+}
+li {
+  color: #eb5889;
+  display: inline;
+  padding: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav a:hover {
+  background-color: white;
+  border-radius: 10px;
+}
+
+.contato,
+.redes-sociais {
+  color: #c99e67;
+  margin: 60px;
+  text-align: center;
+}
